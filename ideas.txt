@@ -1,0 +1,7 @@
+IDEAS:
+
+- Create network to connect Cody-Bot and Sec. Camera {
+  - plug in router and use switch
+  - connectify.me
+  - try command: netsh wlan set hostednetwork mode=allow ssid=APNAME key=APKEY
+}
