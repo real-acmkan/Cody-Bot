@@ -1,7 +1,6 @@
 IDEAS:
 
-- Create network to connect Cody-Bot and Sec. Camera {
-  - plug in router and use switch
-  - connectify.me
-  - try command: netsh wlan set hostednetwork mode=allow ssid=APNAME key=APKEY
+- Attach Pi to AD-HOC network {
+    - Setup https://peerjs.com/
+    - If needed, setup another Pi??
 }
