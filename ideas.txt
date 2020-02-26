@@ -1,6 +1,6 @@
 IDEAS:
 
 - Attach Pi to AD-HOC network {
-    - Setup https://peerjs.com/
-    - If needed, setup another Pi??
+    - Setup https://meet.jit.si
+    - setup another Pi??
 }
